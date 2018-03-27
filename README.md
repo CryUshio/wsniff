@@ -1,5 +1,5 @@
 # wsniff
-A MFC packetcapture program.
+A simple MFC packetcapture program.
 
 ### 环境
 * 需要Visual Studio 2015以上
